@@ -4,17 +4,6 @@
 **Created:** 11/14/2025 19:21:24  
 **Updated:** 11/15/2025 17:39:02  
 **Exported:** 11/15/2025 17:43:31  
-**Link:** [https://chatgpt.com/g/g-p-691772eadedc8191b9357a38ad70426d-glpi/c/69177323-340c-8330-99e6-b4b4e77dc2d6](https://chatgpt.com/g/g-p-691772eadedc8191b9357a38ad70426d-glpi/c/69177323-340c-8330-99e6-b4b4e77dc2d6)  
-
-## Prompt:
-Réflexion durant 26s
-
-Parfait, on commence à avoir un joli petit produit là 😎
-
-Je vais faire deux choses :
-
-1.  Te donner **la documentation technique complète**, propre, à jour (avec les derniers changements : `phone_number`, `auth`, gestion d’erreurs, addendum AlmaLinux/Docker, etc.).
-2.  Te donner **un pas-à-pas Git/GitHub** pour versionner ce script depuis ta VPS.
 
 * * *
 
