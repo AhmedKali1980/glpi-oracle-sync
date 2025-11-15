@@ -1,0 +1,11 @@
+# Fichiers sensibles / locaux
+.env
+sync.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Divers
+*.swp
+trash/

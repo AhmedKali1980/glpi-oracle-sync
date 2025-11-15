@@ -1,0 +1,12 @@
+{
+  "key_glpi_field": "registration_number",
+
+  "fields": {
+    "employee_code": ["name", "registration_number"],
+    "first_name": "firstname",
+    "last_name": "realname",
+    "email": "email",
+    "phone": "phone_number"
+  }
+}
+
