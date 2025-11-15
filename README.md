@@ -34,8 +34,6 @@ Contraintes :
 
 ### 1.2.1. Schéma (vue logique)
 
-ASCII en noir & blanc :
-
 ```text
 +--------------------------+             +-----------------------------+
 |   Poste Admin / DBeaver  |             |       Poste Admin GLPI      |
